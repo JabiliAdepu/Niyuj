@@ -1,0 +1,24 @@
+
+#company-title{
+    font-size: 2.5em;
+    display: block;
+}
+#tag-line{
+    font-size: 1.2em;
+}
+.mat-toolbar{
+    height: fit-content;
+    z-index: 1;
+}
+.mat-sidenav-container{
+    z-index: -1;
+}
+.example-spacer {
+    flex: 1 1 auto;
+}
+.footer{
+    padding: 1em;
+    text-align: center;
+    background-color: #616161;
+    color: white;
+}
